@@ -4,10 +4,13 @@
     	<string name="app_name">Lolistat</string>
 
 	 <!-- Settings -->
+	<string name="global">Global (Kann überschrieben werden)</string>
+	<string name="global_short">Global</string>
+	<string name="search">Suche</string>
+	<string name="enabled">Aktiviert</string>
 	<string name="tint_navigation">Färbe  Navigationsleiste</string>
 	<string name="tint_icons">Färbe Benachrichtiungsicons</string>
-	<string name="blacklist">Blacklist</string>
-    	<string name="blacklist_sum">Deaktiviere Lolistat bei gewählten Apps</string>
+	<string name="custom_color">Benutzerdefinierte Farbe der Statusbar</string>
     	<string name="about">Über</string>
 	
 	<!-- About -->
@@ -28,5 +31,7 @@
     	<!-- Messages -->
     	<string name="plz_wait">Bitte warten...</string>
     	<string name="save">Speichern</string>
+    	<string name="reset">Zurücksetzen</string>
+	<string name="reset_confirm">Zurücksetzen bestätigen?</string>
 
 </resources>
